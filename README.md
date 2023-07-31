@@ -88,6 +88,9 @@ You can click the Preview link to take a look at your changes.
   </tr>
 </table>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitmaurya-12&show_icons=true&locale=en" alt="ankitmaurya-12" /></p>
+
 <div align="center">
-<p><img align="center" src="[![GitHub Streak](https://streak-stats.demolab.com?user=ankitmaurya-12&theme=dark)](https://git.io/streak-stats)" alt="ankit-sable" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitmaurya-12&" alt="ankitmaurya-12" /></p>
   </div>
+
