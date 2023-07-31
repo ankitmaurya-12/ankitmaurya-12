@@ -83,12 +83,10 @@ You can click the Preview link to take a look at your changes.
 
 <table>
   <tr>
-    <td><img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitmaurya-12)](https://github.com/ankitmaurya-12/github-readme-stats)" alt="ankit-sable" /></td>
+    <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitmaurya-12&show_icons=true&locale=en" alt="ankitmaurya-12" /></p></td>
     <td><img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitmaurya-12&layout=compact)" alt="ankit-sable" /></td>
   </tr>
 </table>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitmaurya-12&show_icons=true&locale=en" alt="ankitmaurya-12" /></p>
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitmaurya-12&" alt="ankitmaurya-12" /></p>
