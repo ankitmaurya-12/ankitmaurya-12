@@ -17,13 +17,25 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/ankitmaurya12/" target="_blank"> Ankit Maurya </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitmaurya-12&label=Profile%20views&color=0e75b6&style=flat" alt="ankitmaurya-12" /> </p>
+
+<!---
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitmaurya-12" alt="ankitmaurya-12" /></a> </p> --->
+
 - 🌱 Learning Never Stops 🚀
 
 - 💬 Ask me about **Web Development, Java, DBMS, MySQL**
 
-- 👨‍💻 Check out my personal portfolio : **<a href="" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://linktr.ee/mauryankit" target="_blank">Portfolio</a>**
+
+- 📄 Know about my experiences [Ankit Maurya Resume](https://drive.google.com/file/d/10goxrG7Gv2_TBjOrGwosnfhxVT0-4QWj/view?usp=sharing)
 
 - 😄 Pronouns: He/His
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
