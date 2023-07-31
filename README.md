@@ -96,7 +96,7 @@ You can click the Preview link to take a look at your changes.
 <table>
   <tr>
     <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitmaurya-12&show_icons=true&locale=en" alt="ankitmaurya-12" /></p></td>
-   <!--- <td><img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitmaurya-12&layout=compact)" alt="ankit-sable" /></td> --->
+    <td><img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitmaurya-12&layout=compact)" alt="ankit-sable" /></td> 
   </tr>
 </table>
 
