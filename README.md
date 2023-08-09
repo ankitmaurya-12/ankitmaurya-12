@@ -93,7 +93,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div><br/>
 
-<table>
+<!-- <table>
   <tr>
     <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitmaurya-12&show_icons=true&locale=en" alt="ankitmaurya-12" /></p></td>
     <td><img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitmaurya-12&layout=compact)" alt="ankit-sable" /></td> 
@@ -102,5 +102,6 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitmaurya-12&" alt="ankitmaurya-12" /></p>
-  </div>
+  </div> 
+  -->
 
