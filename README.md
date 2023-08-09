@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **Web Development, Java, DBMS, MySQL**
 
-- 👨‍💻 Check out my personal portfolio : **<a href="https://linktr.ee/mauryankit" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="" target="_blank">Portfolio</a>**
 
 - 📄 Know about my experiences [Ankit Maurya Resume](https://drive.google.com/file/d/10goxrG7Gv2_TBjOrGwosnfhxVT0-4QWj/view?usp=sharing)
 
