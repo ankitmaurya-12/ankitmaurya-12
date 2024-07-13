@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://mauryankit.netlify.app/" target="_blank">Portfolio</a>**
 
-- 📄 Know about my experiences [Ankit Maurya Resume](https://drive.google.com/file/d/10goxrG7Gv2_TBjOrGwosnfhxVT0-4QWj/view?usp=sharing)
+- 📄 Know about my experiences [Ankit Maurya Resume](https://drive.google.com/file/d/1ofeULpyut56Z7io4XcbAKzL-9HKmZqFC/view)
 
 - 😄 Pronouns: He/His
 
